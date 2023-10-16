@@ -9,24 +9,24 @@ https://www.w3schools.com/cs/cs_syntax.php
 
 - IDE setup
     - [ ] install Visual Studio
-    - [ ] create console app project
+    - [x] create console app project
 - console app printing text
-    - [ ] hello world
-    - [ ] hello + how do you do
+    - [x] hello world
+    - [x] hello + how do you do
 - printig parametrized output (functions)
-    - [ ] hello _name_ 
+    - [x] hello _name_ 
     - [ ] change console colours
 - simple math calculations (variable types)
-    - [ ] calculate rectangle area
-	- [ ] calculate circle area (var, float, const)
+    - [x] calculate rectangle area
+	- [x] calculate circle area (var, float, const)
 - using user input
-    - [ ] hello 
+    - [x] hello 
 - user input validation (ifs)
 - comments
-    - [ ] inline descriptions
+    - [x] inline descriptions
     - [ ] function summary
 - simple algorithms (loops)
-    - [ ] print rectangle
+    - [x] print rectangle
     - [ ] print rectangle with border
     - [ ] print equilateral triangle
 - requrency
