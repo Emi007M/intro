@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace IntroOne;
-internal static class HelperFunctions
+internal static class Rectangle
 {
 
     public static void CalculateRectangleField()

@@ -8,7 +8,7 @@ Programming intro in C#
 https://www.w3schools.com/cs/cs_syntax.php
 
 - IDE setup
-    - [ ] install Visual Studio
+    - [x] install Visual Studio
     - [x] create console app project
 - console app printing text
     - [x] hello world
@@ -22,6 +22,7 @@ https://www.w3schools.com/cs/cs_syntax.php
 - using user input
     - [x] hello 
 - user input validation (ifs)
+    - [x] comparing values  
 - comments
     - [x] inline descriptions
     - [ ] function summary
@@ -29,6 +30,16 @@ https://www.w3schools.com/cs/cs_syntax.php
     - [x] print rectangle
     - [ ] print rectangle with border
     - [ ] print equilateral triangle
+- string operations
+    - [x] extracting substrings
+    - [ ] uppercase, camelcase
+    - [ ] replacing specified characters
+- string analysis
+    - [ ] finding longest, shortest word in a string 
+    - [ ] counting specified letter, specified word
+- modulo
+    - [ ] check if number is odd or even
+    - [ ] print numbers from range and mark ones divided by given number
 - requrency
    - [ ] count factorial
 - more loop exercises (https://www.w3resource.com/csharp-exercises/for-loop/index.php)
