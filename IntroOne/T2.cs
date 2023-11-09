@@ -12,10 +12,11 @@ internal static class T2
 
         int min = 0, max = 100;
 
-        if(number < max &&  number > min)
+        if (number < max && number > min)
         {
             Console.WriteLine("Liczba należy do przedziału od " + min + " do " + max);
-        } else
+        }
+        else
         {
             Console.WriteLine($"Liczba nie należy do przedziału od {min} do {max}");
         }
@@ -43,5 +44,9 @@ internal static class T2
         Console.WriteLine(result4);
 
 
+        Console.WriteLine();
+
+
     }
+
 }

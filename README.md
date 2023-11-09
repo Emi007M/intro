@@ -28,12 +28,12 @@ https://www.w3schools.com/cs/cs_syntax.php
     - [ ] function summary
 - simple algorithms (loops)
     - [x] print rectangle
-    - [ ] print rectangle with border
+    - [x] print rectangle with border
     - [ ] print equilateral triangle
 - string operations
     - [x] extracting substrings
-    - [ ] uppercase, camelcase
-    - [ ] replacing specified characters
+    - [x] uppercase, camelcase
+    - [x] replacing specified characters
 - string analysis
     - [ ] finding longest, shortest word in a string 
     - [ ] counting specified letter, specified word
