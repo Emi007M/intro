@@ -53,6 +53,8 @@
 
         private static void PrintSquareTriangle(int x, char sign)
         {
+            
+
             for (int linia = 0; linia < x; linia++)
             {
                 for (int i = 0; i <= linia; i++)
